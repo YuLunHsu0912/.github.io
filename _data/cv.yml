@@ -2,28 +2,30 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yu Lun, Hsu | 許育綸
+    - name: Email
+      value: b06401078@ntu.edu.tw
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th Sep 1998
     - name: Languages
-      value: English, German
+      value: Mandarin, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Computer Science and Information Engineering
+      institution: National Taiwan University (NTU), Taipei, Taiwan
+      year: 2023.09 - 2025.06
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 4.30/4.30
+        - Published 4 papers
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Medicine
+      institution: National Taiwan University (NTU), Taipei, Taiwan
+      year: 2017.09 - 2023.06
       description:
         - Description 1.
         - Description 2.
